@@ -1,4 +1,4 @@
-# ExifTool GUI Analyzer 🔍
+# ExifTool GUI Analyzer
 
 A lightweight, cross-platform graphical user interface (GUI) for Phil Harvey's ExifTool. This project was developed as part of a Network Information and Security internal assessment to demonstrate metadata extraction, forensic analysis, and security vulnerability concepts.
 
